@@ -1,1 +1,4 @@
-;; communications error to 202.80.32.10#53: end of file
+
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR vu. @ns2-cctld.vunic.vu. +nocomments +nocmd +noquestion +nostats +time=15
+;; global options: +cmd
+; Transfer failed.

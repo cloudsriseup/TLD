@@ -1,5 +1,5 @@
 
-; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR mr. @ns1.nic.mr. +nocomments +nocmd +noquestion +nostats +time=15
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR mr. @ns1.nic.mr. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
 mr.			604800	IN	SOA	ns1.nic.mr. root.mail.ustm.mr. 2017021801 3600 900 3600000 600
 mr.			604800	IN	NS	ns.univ-nkc.mr.

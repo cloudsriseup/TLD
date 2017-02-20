@@ -1,5 +1,5 @@
 
-; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR mv. @ns2.dhivehinet.net.mv. +nocomments +nocmd +noquestion +nostats +time=15
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR mv. @ns2.dhivehinet.net.mv. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
 mv.			3600	IN	SOA	ns.mv. hostmaster.dhivehinet.net.mv. 2017022001 1800 1800 3600 3600
 mv.			3600	IN	NS	ns.mv.

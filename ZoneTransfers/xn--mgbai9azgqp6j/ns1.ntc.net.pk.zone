@@ -1,5 +1,5 @@
 
-; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR xn--mgbai9azgqp6j. @ns1.ntc.net.pk. +nocomments +nocmd +noquestion +nostats +time=15
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR xn--mgbai9azgqp6j. @ns1.ntc.net.pk. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
 xn--mgbai9azgqp6j.	86400	IN	SOA	ns.ntc.net.pk. admin.ntc.net.pk. 2017021960 21600 3600 604800 86400
 xn--mgbai9azgqp6j.	0	IN	RRSIG	NSEC3PARAM 7 1 0 20170320185901 20170218185901 40937 xn--mgbai9azgqp6j. I0aeUqV0Z+t06TK0JOhZG6Z/bxO0S5ExNmrxKJ60BAlWHhvY4CecWhDQ iGo+dDNjQA4cgLc7sEi3iin/UDBr0D3VUKUQtUcl5zycgyPwBnC8kBaV c8T0qe2a2/FmPKQ9XQTLebWASRd0AieAgbluoKFETRUulJFOt2REElrl 3KIeSzpPhpTwSrWMuJP77kO/vabOt9ESGpdkg42uYDhOb/EPaOwJTghu 1ebFhgDcgRmk/lgtKm/pXoVH0YC7gQ4dAPTrK7XquGK2QyUQ6xVk35AB VWZPcJlpwKiD+iRRp2YAsy8P/1C+6KW1RNyQFGvPDTC1QFITjxVHymnn H+UKuQ==

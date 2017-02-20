@@ -1,5 +1,5 @@
 
-; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR sy. @ns1.tld.sy. +nocomments +nocmd +noquestion +nostats +time=15
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR sy. @ns1.tld.sy. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
 sy.			3600	IN	SOA	ns1.tld.sy. dns.tld.sy. 2017021818 3600 3600 2592000 3600
 sy.			86400	IN	RRSIG	NS 8 1 86400 20170225222259 20170212012645 33348 sy. Wb7jm7PZgpVBe4/eqTOmxu8rbHnP/EeTl9iFyKOiKj/o82p4gn9c63rE cvJ6clRruaR9EY2+SB0qUatuZJnRYY23ffIZxolcb+kLAnmN3877LJ72 o9TY/5gUHLOQIT02FHZd7kVOnxdv62IK9uMD/RwdMOV2PKor8CwZOhhg rG4=

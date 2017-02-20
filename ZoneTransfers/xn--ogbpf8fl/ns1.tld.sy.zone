@@ -1,5 +1,5 @@
 
-; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR xn--ogbpf8fl. @ns1.tld.sy. +nocomments +nocmd +noquestion +nostats +time=15
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR xn--ogbpf8fl. @ns1.tld.sy. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
 xn--ogbpf8fl.		3600	IN	SOA	ns1.tld.sy. dns.tld.sy. 2017021820 1200 3600 2592000 3600
 xn--ogbpf8fl.		86400	IN	RRSIG	TXT 8 1 86400 20170304174204 20170218063904 11253 xn--ogbpf8fl. qYU6+78Jfln4fCM8y7/dnMy53v3oOXc552FdJfE70Xobw86QkW1MMn5Y a7vqFM9YpMT3JsE5QscP9T2340PnRNvpprPadSpaqzvJY4zWEcxPKOm1 QhZrI1ZwZ6ZfW3SfkcAH9aT5K83iyM3xr25n2PlGH0zsxVUdzs0D4unR RHA=

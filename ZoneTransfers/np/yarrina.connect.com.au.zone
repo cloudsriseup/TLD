@@ -1,5 +1,5 @@
 
-; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR np. @yarrina.connect.com.au. +nocomments +nocmd +noquestion +nostats +time=15
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR np. @yarrina.connect.com.au. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
 np.			86400	IN	SOA	shikhar.mos.com.np. hostmaster.mos.com.np. 2017020303 3600 7200 2592000 86400
 np.			86400	IN	NS	np.cctld.authdns.ripe.net.
