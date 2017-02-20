@@ -1,4 +1,1 @@
-
-; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR durban. @coza1.dnsnode.net. +nocomments +nocmd +noquestion +nostats +time=15
-;; global options: +cmd
-; Transfer failed.
+;; Connection to 2001:67c:1010:18::53#53(2001:67c:1010:18::53) for durban. failed: network unreachable.

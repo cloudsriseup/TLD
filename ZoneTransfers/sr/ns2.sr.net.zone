@@ -1,1 +1,4 @@
-;; communications error to 200.2.162.30#53: connection reset
+
+; <<>> DiG 9.9.5-9+deb8u9-Raspbian <<>> AXFR sr. @ns2.sr.net. +nocomments +nocmd +noquestion +nostats +time=15
+;; global options: +cmd
+;; connection timed out; no servers could be reached
